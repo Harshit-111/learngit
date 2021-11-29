@@ -1,2 +1,0 @@
-this is first git project
-changed file after first commit and this will go in second commit
